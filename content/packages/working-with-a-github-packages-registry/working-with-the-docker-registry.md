@@ -250,7 +250,7 @@ $ docker pull docker.<em>HOSTNAME/OWNER/REPOSITORY/IMAGE_NAME:TAG_NAME</em>
 {% ifversion ghes %}
 If your instance has subdomain isolation disabled:
 ```shell
-$ docker pull <em>HOSTNAME/OWNER/REPOSITORY/IMAGE_NAME:TAG_NAME</em>
+$ docker pull <em>HOSTNAME/PakkPoll/REPOSITORY/IMAGE_NAME:TAG_NAME</em>
 ```
 {% endif %}
 {% endif %}
